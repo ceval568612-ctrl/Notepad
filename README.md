@@ -1,4 +1,4 @@
-Notepad
+NOTEPAD APPLICATION
 
 A clean, distraction-free desktop note-taking application with instant search, local device storage, and live word count tracking.
 
